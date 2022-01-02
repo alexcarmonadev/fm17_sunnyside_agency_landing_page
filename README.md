@@ -1,13 +1,13 @@
 # Frontend Mentor - Sunnyside agency landing page solution
 
-:point_right: This is the [Sunnyside agency landing page](aqui va el reto de frontendmentor) challenge on Frontend Mentor.
+:point_right: This is the [Sunnyside agency landing page](ahttps://www.frontendmentor.io/challenges/sunnyside-agency-landing-page-7yVs3B6ef) challenge on Frontend Mentor.
 
 ## Overview
 
 ### Links
 
-:heavy_check_mark: My `Solution` URL : [Frontend Mentor Solution](Aqui va tu solucion de frontendmentor) </br>
-:heavy_check_mark: My `Live` Site URL : [GitHub Pages](Aqui va tu solucion de github pages)
+:heavy_check_mark: My `Solution` URL : [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/mobile-first-tfQ0g4lVA) </br>
+:heavy_check_mark: My `Live` Site URL : [GitHub Pages](https://alexcarmonadev.github.io/fm17_sunnyside_agency_landing_page/)
 
 Give a ⭐️ if you like this project!
 
